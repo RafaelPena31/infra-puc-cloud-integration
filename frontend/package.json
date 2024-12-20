@@ -1,0 +1,19 @@
+{
+  "name": "infra-puc-cloud-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RafaelPena31/infra-puc-cloud-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelPena31/infra-puc-cloud-integration/issues"
+  },
+  "homepage": "https://github.com/RafaelPena31/infra-puc-cloud-integration/blob/main/README.md"
+}
